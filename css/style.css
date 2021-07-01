@@ -3,3 +3,36 @@
     padding:0;
     box-sizing:border-box;
 }
+
+body{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header{
+    background-color: violet;
+    height: 75px;
+    margin-top: 20px;
+}
+
+footer{
+    height: 50px;
+    background-color:rgb(134, 43, 134);
+    margin:10px 0px;
+}
+
+#first-main-section{
+    height: 450px;
+    background-color: wheat;
+    margin: 20px 0px;
+}
+
+#articles-container{
+    background-color: blue;
+    height: 650px;
+}
+
+#articles-header{
+    height: 100px;
+    background-color: teal;
+}
