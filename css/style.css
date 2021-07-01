@@ -63,6 +63,6 @@ footer{
 }
 
 #main-article{
-    width: calc(70% - 35px);
+    width: calc(70% - 30px);
     margin: 0px 15px;
 }
